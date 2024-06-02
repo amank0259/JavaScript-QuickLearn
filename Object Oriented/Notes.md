@@ -1,4 +1,4 @@
-# Classes in JavaScrip...
+# Classes in JavaScript...
 
 ## JavaScript is primarily a prototype-based language and its classes are primarily syntactic sugar over existing prototype-based inheritance mechanisms.
 
@@ -15,7 +15,7 @@
 
 ## parts of OOP (Conponent)
 - Object literal
-- Constructor function
+- Constructor function (new Promise(), new Date()...etc)
 - Classes
 - Prototypes
 - Instances (new, this)
